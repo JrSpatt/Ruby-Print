@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+engine/
+runtime/
+app/vendor/
+dist/
+releases/
+*.zip
+*.pdf
+*.log
